@@ -1,4 +1,5 @@
-# Health Insurance Cost Estimation Project  
+# Health Insurance Cost Estimation Project
+![health insurance](https://www.offthegridnews.com/wp-content/uploads/2013/03/HealthCareCosts.jpg)
 ## Project Overview  
 Healthcare costs can vary significantly based on individual characteristics and other factors. Understanding the determinants of health insurance costs can be valuable for insurance companies, policymakers, and individuals alike. By building a predictive model, we can provide insights into how different factors influence insurance costs and potentially assist in pricing strategies, risk assessment, and personalized healthcare planning.
 
