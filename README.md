@@ -20,13 +20,12 @@ The project is divided into the following sections:
 - README.md: This README file providing an overview of the project.
 
 ## Libraries Used:  
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Statsmodels
-- How to Run
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit-learn
+6. Statsmodels
 
 ## To run the project:  
 Ensure you have Python installed on your system.
